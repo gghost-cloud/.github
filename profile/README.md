@@ -30,8 +30,8 @@
 | Region | Availability |
 |---|---|
 | Singapore | Live: instant setup |
-| Germany | Live: instant setup |
-| United States, India, United Kingdom, Australia | On demand: usually within 2 hours |
+| Europe (Lauterbourg, France, on the German border) | Live: instant setup |
+| United Kingdom, US East, US Central, US West, India, Japan (Tokyo), Australia (Sydney) | On demand: usually within 2 hours |
 | Brazil | On request: within 24 hours |
 
 ## Every server includes
