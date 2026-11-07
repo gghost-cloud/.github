@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://gghost.cloud/?utm_source=github&utm_medium=referral&utm_campaign=org-profile"><img src="https://img.shields.io/badge/website-gghost.cloud-3ef0b8?style=flat-square" alt="Website"></a>
-  <a href="https://discord.gg/3rwCYx2T"><img src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://gghost.cloud/discord"><img src="https://img.shields.io/badge/discord-join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://gghost.cloud/status/?utm_source=github&utm_medium=referral&utm_campaign=org-profile"><img src="https://img.shields.io/badge/status-live-3ef0b8?style=flat-square" alt="Status"></a>
   <a href="mailto:hello@gghost.cloud"><img src="https://img.shields.io/badge/email-hello%40gghost.cloud-0d9488?style=flat-square" alt="Email"></a>
 </p>
@@ -54,7 +54,7 @@
 
 - Website: [gghost.cloud](https://gghost.cloud/?utm_source=github&utm_medium=referral&utm_campaign=org-profile)
 - Email: [hello@gghost.cloud](mailto:hello@gghost.cloud)
-- Discord: [discord.gg/3rwCYx2T](https://discord.gg/3rwCYx2T)
+- Discord: [gghost.cloud/discord](https://gghost.cloud/discord)
 
 ---
 
